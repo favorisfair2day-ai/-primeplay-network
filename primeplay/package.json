@@ -1,0 +1,1 @@
+{\n  "name": "primeplay",\n  "version": "1.0.0",\n  "dependencies": {\n    "@stripe/stripe-js": "^1.16.0",\n    "@supabase/supabase-js": "^1.35.0"\n  }\n}
